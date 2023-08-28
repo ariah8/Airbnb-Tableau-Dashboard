@@ -1,0 +1,2 @@
+# Airbnb-Tableau-Dashboard
+When people want to book their Airbnb stays, they consider some factors that impact their decisons to make their final decison. I decided to apply my Tableau skills and use data visualization techniques for Airbnb listings in Seattle to illustrate the price range in all areas and built a Tableau dashboard inclusing many charts and graphs to indicate what properties people can choose to have the best experince and better potential financial decisions. 
